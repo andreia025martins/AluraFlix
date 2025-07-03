@@ -10,3 +10,15 @@ header{
     font-size: 35px;
     color: rgb(42, 122, 228);
 }
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+section{
+    background-color: rgb(184, 156, 213);
+}
