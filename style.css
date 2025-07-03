@@ -21,4 +21,7 @@ p{
 
 section{
     background-color: rgb(117, 143, 237);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
 }
